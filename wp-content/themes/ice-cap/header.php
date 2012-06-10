@@ -29,7 +29,7 @@
     	    <?php bloginfo( 'name' ); ?>
     	  </a>
     	</h1>
-    	<h2><?php bloginfo( 'description' ); ?></h2>
+    	<h2><a href="http://www.bloomboxphoto.com/" style="text-decoration:none;"><?php bloginfo( 'description' ); ?></a></h2>
     	<?php wp_nav_menu( array( 'container_class' => 'menu-header', 'theme_location' => 'primary' ) ); ?>
       
       <div id="topimage">
