@@ -1,0 +1,8 @@
+*** Ice Cap Changelog ***
+
+25 May 2012 - Version 1.5
+
+	* Fonts for h1, h2, h3, h4, h5, h6
+	* Clear floats on post contents
+	* Corrected styles for Widgets
+	* Menu dropdown in Firefox
