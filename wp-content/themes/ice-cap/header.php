@@ -45,7 +45,7 @@
   					<img src="<?php header_image(); ?>" />
   				<?php endif; ?>
 		    </a>
-			  <?php endif; ?>
-			</div><!-- #topimage -->
+		  <?php endif; ?>
+		</div><!-- #topimage -->
   			
   	</header>
