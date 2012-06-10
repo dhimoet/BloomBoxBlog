@@ -3,7 +3,7 @@
 </sidebar>
   <footer>
     <line></line>
-    <p>made with wacky thinking</p>
+    <a href="http://www.bloomboxphoto.com/"><p>www.BloomBoxPhoto.com</p></a>
   </footer>
 
   </div>
