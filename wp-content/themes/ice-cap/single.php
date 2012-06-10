@@ -3,7 +3,6 @@
 <?php if ( have_posts() ) while ( have_posts() ) : the_post(); ?>
   <article class="clearfix">
     <side>
-      <div id="circle"><div><?php comments_popup_link( '0','1', '%', '', 'off' ); ?></div></div>
     	
     	<date><?php the_date(); ?></date>
 	    

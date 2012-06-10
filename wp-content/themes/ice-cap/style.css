@@ -329,7 +329,7 @@ body {
 }
 
 #wrapper {
-  width: 800px;
+  width: 900px;
   margin: 0 auto;
 }
 
@@ -677,7 +677,7 @@ article side {
   float: left;
   font-weight: normal;
   padding: 0% 1%;
-  width: 23%;
+  width: 15%;
 }
 article side #circle {
   -webkit-border-radius: 50%;
@@ -704,14 +704,12 @@ article side date {
   display: block;
   text-align: center;
   font-size: 1em;
-  width: 60%;
   margin: 0 auto;
   font-size: 1.3em;
 }
 article side list {
   display: block;
   text-align: center;
-  width: 60%;
   margin: 10px auto;
   font-size: 1em;
 }
@@ -726,7 +724,7 @@ article side a:hover {
 article post {
   display: block;
   float: right;
-  width: 75%;
+  width: 82%;
   /* 600px = 800*0.75 */
 }
 article post .sticky {

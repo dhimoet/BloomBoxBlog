@@ -28,8 +28,6 @@
     	
     	
     <side>
-      <div id="circle"><div><?php comments_popup_link( '0','1', '%', '', 'off' ); ?></div></div>
-    	
     	<date><?php the_date(get_option( 'date_format' )); ?></date>
 	    
 	    <list>

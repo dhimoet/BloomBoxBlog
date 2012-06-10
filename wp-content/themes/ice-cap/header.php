@@ -30,7 +30,7 @@
     	  </a>
     	</h1>
     	<a href="http://www.bloomboxphoto.com/" style="text-decoration:none;"><h2><?php bloginfo( 'description' ); ?></h2></a>
-    	<?php wp_nav_menu( array( 'container_class' => 'menu-header', 'theme_location' => 'primary' ) ); ?>
+    	<?php //wp_nav_menu( array( 'container_class' => 'menu-header', 'theme_location' => 'primary' ) ); ?>
       
       <div id="topimage">
       	<?php if ( get_header_image() != '' ) : ?>
